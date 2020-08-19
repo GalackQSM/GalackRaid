@@ -39,6 +39,7 @@ GalackRaid a beaucoup de fonctionnalités avec **2 catégories principales**:
 * dog - Afficher un chien
 * weed - Afficher de la weed
 * punch - Avoir envie de punch
+* calin - Demander un calin
 
 ## Installation
 
