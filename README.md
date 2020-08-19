@@ -32,11 +32,9 @@ GalackRaid a beaucoup de fonctionnalités avec **2 catégories principales**:
 * pmeveryone [Message] - DM tout les membres du serveur
 
 # Commande NORMAL:
-Commandes Admin:
 * help - Afficher les commandes
 * automod - Activer l'automod sur votre serveur
 * antilink - Activer l'anti-link sur votre serveur
-Commandes Image:
 * cat - Afficher un chat
 * dog - Afficher un chien
 * weed - Afficher de la weed
