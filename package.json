@@ -1,0 +1,19 @@
+{
+  "name": "GalackRaid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GalackQSM#7926",
+  "license": "GalackQSM",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "12",
+    "fs": "0.0.1-security",
+    "image-downloader": "^3.6.0",
+    "twilio": "^3.42.0",
+    "whatsapp-chapi": "^1.1.1"
+  }
+}
