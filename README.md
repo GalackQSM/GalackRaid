@@ -50,5 +50,5 @@ GalackRaid a beaucoup de fonctionnalités avec **2 catégories principales**:
 
 *   [Discord](https://discord.gg/XH7zQ8s)
 *   [Twitter](https://twitter.com/Galack_QSM)
-*   [Github](https://github.com/GalackQSM/DeltaBot/)
+*   [Github](https://github.com/GalackQSM/)
 
