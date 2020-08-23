@@ -19,7 +19,8 @@ const botPrefix = "*"
   console.log("");                                   
   console.log((chalk.red(`                                                         Discord: https://discord.gg/XH7zQ8s`)));   
   console.log((chalk.red(`                                                       Twitter: https://twitter.com/Galack_QSM`)));   
-  console.log((chalk.red(`                                                        Github: https://github.com/GalackQSM`)));   
+  console.log((chalk.red(`                                                        Github: https://github.com/GalackQSM`)));  
+  console.log((chalk.red(`                                                        Youtube: https://youtube.com/GalackQSM`)));   
   console.log("");                                  
 
   console.log(`Statistiques globales : \n\nLe bot a un total de ${client.guilds.cache.size} serveurs. \nPour un total de ${client.users.cache.size} membres.`)
